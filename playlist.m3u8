@@ -17,7 +17,7 @@ https://cdn-livetv5.metube.id/hls/globaltv_240/index.m3u8
 #EXTINF:-1, Metro TV (edge)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1107016850_b1492000_sleng.m3u8
 
-#EXTINF:-1, ANTV
+#EXTINF:-1, ANTV (unknown)
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, TVOne (indostreamingtv)
@@ -39,4 +39,7 @@ https://cdn-livetv5.metube.id/hls/inewstv_480/index.m3u8
 https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxYGJlvoq6ZObGd4249_i70)/dm/3/x6pz4sa/d/live-2.m3u8
 
 #EXTINF:-1, RCTI (metube)
+https://cdn-livetv3.metube.id/hls/eplrcti_480/index.m3u8
+
+#EXTINF:-1, RCTI (unknown)
 https://cdn-livetv3.metube.id/hls/eplrcti_480/index.m3u8
