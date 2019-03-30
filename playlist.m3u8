@@ -11,38 +11,32 @@ http://id8.indostreamingtv.com/live/tv66/index.m3u8
 #EXTINF:-1, Trans 7 (indostreamingtv)
 http://id1.indostreamingtv.com/live/tv77/index.m3u8
 
-#EXTINF:-1, Global TV
-https://cdn-livetv1.metube.id/hls/globaltv_240/index.m3u8
+#EXTINF:-1, Global TV (metube)
+https://cdn-livetv5.metube.id/hls/globaltv_240/index.m3u8
 
-#EXTINF:-1,Metro TV
-https://kmklive-lh.akamaihd.net/i/metrotv_live@577566/master.m3u8
+#EXTINF:-1, Metro TV (edge)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1107016850_b1492000_sleng.m3u8
 
-#EXTINF:-1,ANTV
+#EXTINF:-1, ANTV
 https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
 
-#EXTINF:-1,TVOne
-https://tvbersama.rumahstreaming.stream/tvone/lives/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDE5IDY6MDU6MzUgUE0maGFzaF92YWx1ZT1FUTFWTkNmSjVhQXVnTmJUUXpuSjJnPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+#EXTINF:-1, TVOne (indostreamingtv)
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
-#EXTINF:-1,MNC TV
-https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/master.m3u8
+#EXTINF:-1, MNC TV (metube)
+https://cdn-livetv3.metube.id/hls/eplmnctv_480/index.m3u8
 
-#EXTINF:-1,RTV
-https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
+#EXTINF:-1, RTV (unknown)
+http://210.210.155.35/session/bd96b02a-5301-11e9-9492-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
-#EXTINF:-1,Trans TV
-https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
+#EXTINF:-1, Trans TV (indostreamingtv)
+http://id1.indostreamingtv.com/live/tv77/index.m3u8
 
-#EXTINF:-1,DW
-https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
+#EXTINF:-1, iNewsTV (metube)
+https://cdn-livetv5.metube.id/hls/inewstv_480/index.m3u8
 
-#EXTINF:-1,iNewsTV
-https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
+#EXTINF:-1, Kompas TV (youtube)
+https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxYGJlvoq6ZObGd4249_i70)/dm/3/x6pz4sa/d/live-2.m3u8
 
-#EXTINF:-1,Jak TV
-https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
-
-#EXTINF:-1,Kompas TV
-https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
-
-#EXTINF:-1, (meTube.id) RCTI
+#EXTINF:-1, RCTI (metube)
 https://cdn-livetv3.metube.id/hls/eplrcti_480/index.m3u8
